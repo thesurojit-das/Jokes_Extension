@@ -1,4 +1,4 @@
-<h1>Jokes_Extension</h1>
+<h1 align="center">Jokes_Extension</h1>
 
 <p>You click on this google chrome extension to get a random Joke every time 😂</p>
 
